@@ -6,7 +6,7 @@ Suite Teardown  Close All Browsers
 
 
 *** Variables ***
-${URL}              https://todo-bvkgrn3l0-niklaskah.vercel.app/tasks
+${URL}              https://todo-4f5wlwv2a-niklaskah.vercel.app/tasks
 ${BROWSER}          firefox
 ${TASK_NAME}        testi
 ${TASK_DETAIL}      testi
